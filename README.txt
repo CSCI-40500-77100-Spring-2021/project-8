@@ -1,4 +1,5 @@
 Group Members:Rinchen, Nick, Cal, Yevgeniy
+Product: Sidekick
 FOR (target customer)
 WHO (statement of the need or opportunity)
 The (PRODUCT NAME) is a (product category)
