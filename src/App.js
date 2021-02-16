@@ -1,14 +1,14 @@
 import logo from './logo.gif';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import Button from 'react-bootstrap/Button'
 import './API_call'
-import InputGroup from 'react-bootstrap/InputGroup'
-import { FormControl, FormGroup, FormLabel } from 'react-bootstrap';
 import './Sign-in'
 import Signin from './Sign-in';
+import ClockComponent from './ClockComponent';
+import Dictaphone from './speech_component'
 
 function App() {
+
   function handleLogin(e) {
     e.preventDefault();
     console.log("This is how we handle LogIn")
@@ -40,6 +40,11 @@ function App() {
           id="signin"
           onClick={handleLogin}
         />
+        <div>
+
+          {/* <ClockComponent /> */}
+          <Dictaphone />
+        </div>
       </header>
     </div>
 
