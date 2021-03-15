@@ -6,6 +6,7 @@ import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
 import IconButton from "@material-ui/core/IconButton";
 import MenuIcon from "@material-ui/icons/Menu";
+import SimplePopover from "./popover";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -37,7 +38,7 @@ export default function Navbar() {
           <Typography variant="h6" className={classes.title}>
             Sidekick
           </Typography>
-          <Button color="inherit">Login</Button>
+          <SimplePopover />
         </Toolbar>
       </AppBar>
     </div>

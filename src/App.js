@@ -9,10 +9,6 @@ import Dictaphone from "./speech_component";
 import Navbar from "./components/navbar";
 
 function App() {
-  function handleLogin(e) {
-    e.preventDefault();
-    console.log("This is how we handle LogIn");
-  }
   function handleSignin(e) {
     e.preventDefault();
     console.log("This is how we handle SignIn");
@@ -34,7 +30,6 @@ function App() {
           Turn on your SideKick
         </a>
 
-        <Signin name="signin" id="signin" onClick={handleLogin} />
         <div>
           {/* <ClockComponent /> */}
           <Dictaphone />
