@@ -4,6 +4,7 @@ import Popover from "@material-ui/core/Popover";
 import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
 import Signin from "../Sign-in";
+import Logout from "./Log-Out"
 
 const useStyles = makeStyles((theme) => ({
   typography: {
@@ -57,6 +58,7 @@ export default function SimplePopover() {
       >
         <Typography className={classes.typography}>
           <Signin name="signin" id="signin" onClick={handleLogin} />
+          <Logout />
         </Typography>
       </Popover>
     </div>
