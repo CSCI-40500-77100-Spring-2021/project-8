@@ -6,7 +6,7 @@ Group Members:Rinchen, Nick, Cal, Yevgeniy
 
 ![roughdraft](https://user-images.githubusercontent.com/78511310/112701689-b25ac180-8e67-11eb-843a-e5d9f8ebc485.png)
 
-Product Vision  
+# Product Vision  
 FOR people of all ages with internet and mobile access  
 WHO are in need of recreation and entertainment,   
 THE sidekick is a mobile app that recognizes jokes told using natural language processing   
