@@ -1,6 +1,6 @@
 Group Members:Rinchen, Nick, Cal, Yevgeniy
 
-Architecture 
+# Layered Software Architecture
 
 ![ArchitectureRoughDraft](https://user-images.githubusercontent.com/78511310/112701677-abcc4a00-8e67-11eb-943d-331e0336dc16.png)
 
@@ -28,6 +28,5 @@ npm install //note, you must already have node installed
  npm start
  #this starts a local server in your port which locally hosts your web-app
 
-# Layered Software Architecture
 
 
