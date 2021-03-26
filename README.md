@@ -1,10 +1,11 @@
 Group Members:Rinchen, Nick, Cal, Yevgeniy
 
 # Layered Software Architecture
-
+## Architecture Layers
+![roughdraft](https://user-images.githubusercontent.com/78511310/112701689-b25ac180-8e67-11eb-843a-e5d9f8ebc485.png)
+## Technologies Chosen
 ![ArchitectureRoughDraft](https://user-images.githubusercontent.com/78511310/112701677-abcc4a00-8e67-11eb-943d-331e0336dc16.png)
 
-![roughdraft](https://user-images.githubusercontent.com/78511310/112701689-b25ac180-8e67-11eb-843a-e5d9f8ebc485.png)
 
 # Product Vision  
 FOR people of all ages with internet and mobile access  
