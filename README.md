@@ -1,5 +1,10 @@
 Group Members:Rinchen, Nick, Cal, Yevgeniy
 
+# Docker
+docker pull etrsw/sidekick:latest
+docker run -p 3000:80 etrsw/sidekick
+sidekick should be running on http://localhost:3000/ 
+
 # Layered Software Architecture
 ## Architecture Layers
 ![roughdraft](https://user-images.githubusercontent.com/78511310/112701689-b25ac180-8e67-11eb-843a-e5d9f8ebc485.png)
