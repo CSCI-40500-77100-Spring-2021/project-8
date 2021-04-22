@@ -1,9 +1,11 @@
 Group Members:Rinchen, Nick, Cal, Yevgeniy
 
 # Docker
-docker pull etrsw/sidekick:latest
-docker run -p 3000:80 etrsw/sidekick
-sidekick should be running on http://localhost:3000/ 
+docker pull etrsw/sidekick:latest 
+
+docker run -p 3000:80 etrsw/sidekick 
+
+sidekick should be running on http://localhost:3000/  
 
 # Layered Software Architecture
 ## Architecture Layers
